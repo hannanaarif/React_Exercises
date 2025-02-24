@@ -1,6 +1,6 @@
 Here are 5 structured questions in the same format as your original question to boost your learning curve with useContext.
 
-*** 1️ Dynamic Context Update
+**1️ Dynamic Context Update**
 
 ```
     1. Create a new Vite React Project.
@@ -32,7 +32,7 @@ Here are 5 structured questions in the same format as your original question to 
        the button updates the text.
 ```
 
-*** 2️. Multiple Contexts Handling
+**2️. Multiple Contexts Handling**
 
 ```
     1. Create a new Vite React Project.
@@ -57,7 +57,7 @@ Here are 5 structured questions in the same format as your original question to 
        are being displayed correctly.
 ```
 
-*** 3️. Context with Default Value
+**3️. Context with Default Value**
 
 ```
     1. Create a new Vite React Project.
@@ -81,7 +81,7 @@ Here are 5 structured questions in the same format as your original question to 
     8. Refresh the browser and confirm the difference.
 ```
 
-*** 4️. Custom Hook for Context
+**4️. Custom Hook for Context**
 
 ```
     1. Create a new Vite React Project.
@@ -102,7 +102,7 @@ Here are 5 structured questions in the same format as your original question to 
     7. Test in the browser to ensure it works as expected.
 
 ```
-*** 5. Global Context Across Multiple Components
+**5. Global Context Across Multiple Components**
 
 ```
     1. Create a new Vite React Project.
